@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/ImageJ-Image%20Processing-orange" />
   <img src="https://img.shields.io/badge/Contact%20Angle-Wettability%20Testing-red" />
   <img src="https://img.shields.io/badge/Materials%20Engineering-Industry%204.0-purple" />
+  <img src="https://img.shields.io/badge/Surface%20Science-Laboratory%20Research-darkgreen" />
 </p>
 
 **Name:** Wiseman Siriro  
