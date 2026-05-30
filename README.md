@@ -14,7 +14,7 @@
 **Course:** Surface Science and Technology (Lab Work)  
 **Professor:** Prof. Giulia Massaglia  
 **University:** Polytechnic University of Turin (Italy) 
-**Program:** Master of Science in Materials Engineering for Industry 4.0
+**Program:** MSc in Materials Engineering for Industry 4.0
 
 ---
 
