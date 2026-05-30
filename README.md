@@ -1,123 +1,108 @@
-# Electrospinning Technology — Surface Science & Technology Laboratory
+#  Electrospinning Technology (Surface Science & Technology)⚡
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Electrospinning-Nanofiber%20Fabrication-blue" />
+  <img src="https://img.shields.io/badge/SEM-Microstructure%20Analysis-green" />
+  <img src="https://img.shields.io/badge/ImageJ-Image%20Processing-orange" />
+  <img src="https://img.shields.io/badge/Contact%20Angle-Wettability%20Testing-red" />
+  <img src="https://img.shields.io/badge/Materials%20Engineering-Industry%204.0-purple" />
+</p>
 
 **Name:** Wiseman Siriro  
 **Student Code:** S333263  
-**Course:** SURFACE SCIENCE and TECHNOLOGY — Lab Work  
+**Course:** Surface Science and Technology — Lab Work  
 **Professor:** Prof. Giulia Massaglia  
-**Research Topic:** Electrospinning Technology  
 **University:** Polytechnic University of Turin — Italy  
-**Program:** Master of Science in Materials Engineering for Industry 4.0  
+**Program:** Master of Science in Materials Engineering for Industry 4.0
 
 ---
 
-## ❓ Question 1 — Electrospinning Process
+## 🔬 Part 1 – What is the Electrospinning Process?
 
-### **What is electrospinning?**
+Electrospinning is a voltage-driven electrohydrodynamic fabrication technique used to produce ultrathin polymer fibers ranging from nanometers to micrometers. A polymer solution or melt is extruded through a needle under a high electric field, forming a charged jet that elongates, solidifies, and deposits as a nanofibrous mat on a grounded collector.
 
-Electrospinning is a voltage-driven electrohydrodynamic fabrication technique used to produce ultrathin polymer fibers ranging from nanometers to micrometers. A polymer solution or melt is extruded through a needle under high electric field, forming a charged jet that elongates, solidifies, and deposits as a nanofibrous mat on a grounded collector.
+### Working Principle
 
-### **Working Principle**
+The process includes polymer solution preparation, injection through a spinneret, application of high voltage, Taylor cone formation, jet ejection and stretching, solvent evaporation, and fiber collection.
 
-1. **Polymer Preparation**
-2. **Injection through spinneret (needle)**
-3. **High-voltage electric field applied**
-4. **Formation of Taylor cone**
-5. **Jet ejection and stretching**
-6. **Solvent evaporation / melt cooling**
-7. **Fiber deposition on collector**
+### Advantages
 
-### **Advantages**
-- Production of nanofibers with high surface area
-- Compatible with many polymers and composites
-- Tunable morphology & alignment
-- Scalable for industrial processes
-- Broad application fields (filtration, biomedical, energy, sensors, etc.)
+- High surface area-to-volume ratio
+- Versatility with different polymers
+- Tunable fiber morphology and alignment
 
-### **Disadvantages**
-- Slow production rate compared to melt spinning
-- Solvent safety & environmental concerns
-- Requires controlled parameters (voltage, flow rate, humidity)
-- Higher cost of equipment and processing
-- Mechanical properties may be sub-optimal for structural load-bearing
+### Disadvantages
 
-### **Parameters Influencing Nanofiber Morphology**
-
-| Category | Key Factors |
-|---|---|
-| **Polymer Solution** | Concentration, viscosity, molecular weight |
-| **Solvent Properties** | Volatility, polarity, evaporation rate |
-| **Process Parameters** | Voltage, flow rate, spinneret-collector distance, collector rotation |
-| **Environmental** | Humidity, temperature |
-| **Additives** | Nanoparticles, surfactants, crosslinkers |
-
-Such parameters govern **fiber diameter, alignment, porosity, bead formation, and surface chemistry**.
+- Low production rate
+- Solvent toxicity and safety issues
+- Sensitive to many parameters
 
 ---
 
-## ❓ Question 2 — Experimental Procedure & Post-Processing
+## 🔬 Part 2 – Experimental Procedure & Post-Processing
 
-### **Typical Lab Procedure for Electrospun Nanofiber Mats**
+### Typical Experimental Procedure
 
-1. **Polymer Solution Preparation**
-2. **Electrospinning Setup**
-3. **Fiber Collection**
-4. **Drying**
-5. **Heat Treatment (if required)**
+1. Polymer solution preparation
+2. Electrospinning setup
+3. Fiber collection
+4. Drying
+5. Heat treatment
 
-### **Post-Processing Treatments**
+### SEM Images (Before and After Heat Treatment)
 
-To convert polymer nanofibers into other material systems:
-
-- Chemical treatment
-- Thermal treatment
-- Stabilization + carbonization
-- Nanoparticle incorporation
-- Composite formation
-
-### **Example Transformation: Polymer → Carbon Nanofibers**
-
-**Steps:**
-1. Electrospin polymer precursor (e.g., PAN)
-2. Stabilization in air (200–300°C)
-3. Carbonization in inert atmosphere (800–1200°C)
-4. Optional graphitization (>2000°C)
-5. Post-treatment (activation / functionalization)
-
-Result: carbon nanofibers with conductive and high-surface-area properties.
+![SEM Images of Electrospun Nanofiber Mats Before and After Heat Treatment](https://raw.githubusercontent.com/wisemansg/electrospinning/main/assets/SEM%20images%20of%20the%20electrospun%20nanofiber%20mats%20before%20and%20after%20heat%20treatment%20.jpeg)
 
 ---
 
-## ❓ Question 3 — Surface Analysis & Contact Angle Measurement
+## 🔬 Part 3 – Surface Analysis & Contact Angle Measurement
 
-Three surfaces analyzed during lab:
+Three surfaces were analyzed: **PDMS**, **Electrospun Nanofiber Mat**, and **Carbon Paper**.
 
-- **PDMS**
-- **Electrospun nanofiber mat**
-- **Carbon paper**
+A water droplet was deposited on each surface using a syringe. Images were captured at a 90-degree angle and analyzed using ImageJ software to measure the contact angles.
 
-### **Wettability Principle**
+### Wettability Results
 
-Contact angle θ describes solid-liquid interaction:
+**Based on these images, PDMS shows a hydrophilic behaviour and nano fiber and carbon paper both show hydrophilic behavior with carbon paper being the most hydrophilic amongst the two.**
 
-- **θ > 90° → Hydrophobic** (poor wetting)
-- **θ < 90° → Hydrophilic** (good wetting)
-
-### **Experimental Procedure**
-
-1. Deposit water droplet using syringe onto sample
-2. Record droplet profile using camera at 90° angle
-3. Analyze using **ImageJ contact angle plugin**
-4. Compare contact angles across surfaces
-
-### **Qualitative Outcome**
-
-- PDMS → hydrophobic
-- Nanofiber mat → hydrophilic
-- Carbon paper → most hydrophilic
+![Contact Angle Analysis](https://raw.githubusercontent.com/wisemansg/electrospinning/main/assets/PDMS%20shows%20a%20hydrophilic%20behaviour%20and%20nano%20fiber%20and%20carbon%20paper%20both%20show%20hydrophilic%20behavior%20with%20carbon%20paper%20.jpeg)
 
 ---
 
-## 📂 Images
+## 🛠️ Tools & Equipment Used
 
-Place experimental images into:
+### Software & Analysis Tools
 
+- ImageJ
+- SEM Imaging Software
+- Contact Angle Analysis Software
+
+### Laboratory Equipment
+
+- Electrospinning Apparatus
+- High Voltage Power Supply
+- Syringe Pump
+- Spinneret Needle
+- Grounded Collector
+- Heat Treatment Furnace/Oven
+- Scanning Electron Microscope (SEM)
+- Contact Angle Measurement Setup
+
+---
+
+## 🎯 Key Learning Outcomes
+
+- Understanding electrospinning principles and nanofiber fabrication
+- SEM characterization of nanostructured materials
+- Surface wettability analysis using contact angle measurements
+- Interpretation of fiber morphology before and after heat treatment
+- Practical laboratory experience in surface science and materials characterization
+
+---
+
+**Laboratory Report**  
+**Surface Science and Technology**  
+**Polytechnic University of Turin**  
+**Professor:** Prof. Giulia Massaglia
+
+**Author:** Wiseman Siriro
