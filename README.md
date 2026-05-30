@@ -10,9 +10,9 @@
 
 **Name:** Wiseman Siriro  
 **Student Code:** S333263  
-**Course:** Surface Science and Technology — Lab Work  
+**Course:** Surface Science and Technology (Lab Work)  
 **Professor:** Prof. Giulia Massaglia  
-**University:** Polytechnic University of Turin — Italy  
+**University:** Polytechnic University of Turin (Italy) 
 **Program:** Master of Science in Materials Engineering for Industry 4.0
 
 ---
